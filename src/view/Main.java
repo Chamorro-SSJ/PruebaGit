@@ -11,7 +11,7 @@ import javax.swing.JColorChooser;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
-
+//fornite hoy?
 /**
  *
  * @author helde
